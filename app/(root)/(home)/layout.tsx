@@ -2,8 +2,8 @@
 import { Metadata } from 'next';
 import { ReactNode } from 'react';
 
-import Navbar from '@/components/Navbar';
-import Sidebar from '@/components/Sidebar';
+import Navbar from '@/components/ui/Navbar';
+import Sidebar from '@/components/ui/Sidebar';
 
 export const metadata: Metadata = {
   title: 'YOOM',
